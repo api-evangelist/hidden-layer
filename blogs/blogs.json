@@ -3,19 +3,18 @@
   "feeds": [
     {
       "source": "https://hiddenlayer.com/innovation-hub/",
-      "feed_url": "https://hiddenlayer.com/innovation-hub/",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     },
     {
       "source": "https://hiddenlayer.com/company/newsroom/",
-      "feed_url": "https://hiddenlayer.com/company/newsroom/",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 3,
+  "fetched": "2026-06-27T12:46:23Z",
+  "agent_pulled": "2026-06-27"
 }
